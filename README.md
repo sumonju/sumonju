@@ -4,7 +4,7 @@
       acquisition, data preprocessing, data visualization, GIS and mapping, time series analysis, and numerical modeling. 
 - 🌱 I’m currently learning various libraries and tools for such computations. 
 - 💞️ I want to collaborate with domain experts in geophysics, oceanography, and related fields. 
-- 📫 
+- 📫 You can reach me here: sumon.stu2016@juniv.edu
 
 <!---
 sumonju/sumonju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
